@@ -3,16 +3,20 @@
 
 #define WorkingSet_0_Offset                                     1
 #define DataMask_1000_Offset                                   21
-#define Rectangle_14000_Offset                                 29
-#define LineAttributes_24000_Offset                            42
-#define FillAttributes_25000_Offset                            50
+#define SoftKeyMask_4000_Offset                                35
+#define SoftKey_5000_Offset                                    43
+#define Rectangle_14000_Offset                                 56
+#define Rectangle_14001_Offset                                 69
+#define Rectangle_14501_Offset                                 82
+#define LineAttributes_24000_Offset                            95
+#define FillAttributes_25000_Offset                           103
 
 #define ISO_OP_MEMORY_CLASS
 
-#define ISO_OP_MyProject1_Size     58
+#define ISO_OP_MyProject1_Size    111
 extern const unsigned char ISO_OP_MEMORY_CLASS isoOP_MyProject1[];
 
-#define ISO_OP_MyProject1_ObjectNumber      5
+#define ISO_OP_MyProject1_ObjectNumber      9
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_MyProject1_Offset[];
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_MyProject1_Offset_Id[];
 #define ISO_OP_MyProject1_Scale_Offset      1

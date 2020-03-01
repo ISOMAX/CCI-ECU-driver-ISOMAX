@@ -11,7 +11,7 @@
 				</Value>
 			</Property>
 			<Property Name="BackColor">
-				<Value>12632256</Value>
+				<Value>13434879</Value>
 			</Property>
 			<Property Name="MaskType">
 				<Value>1</Value>
@@ -56,7 +56,7 @@
 				<Value>-1</Value>
 			</Property>
 			<Property Name="SoftKeyMask">
-				<Value>-1</Value>
+				<Value>4000</Value>
 			</Property>
 			<Property Name="Selectable">
 				<Value>1</Value>
@@ -121,4 +121,32 @@
 			</Property>
 		</PropertySheet>
 	</PropertySheets>
+	<Components>
+		<Component ID="156792314" Class="CRectangle" Name="Rectangle">
+			<PropertySheets>
+				<PropertySheet Name="General">
+					<Property Name="ZOrder">
+						<Value>0</Value>
+					</Property>
+				</PropertySheet>
+				<PropertySheet Name="Proxy">
+					<Property Name="Top">
+						<Value>96</Value>
+					</Property>
+					<Property Name="Left">
+						<Value>120</Value>
+					</Property>
+					<Property Name="Transform">
+						<Value>(1.0000000000000000)(0.0000000000000000)(120.0000000000000000)(0.0000000000000000)(1.0000000000000000)(96.0000000000000000)</Value>
+					</Property>
+					<Property Name="ReferencedObjectForMask">
+						<Value>-1</Value>
+					</Property>
+				</PropertySheet>
+			</PropertySheets>
+			<Objects>
+				<Object JVS-ID="14001"/>
+			</Objects>
+		</Component>
+	</Components>
 </JetView-Document>
