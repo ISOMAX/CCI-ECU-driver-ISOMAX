@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 
 dkms.conf
+
+ISOMAX/sdkconfig
