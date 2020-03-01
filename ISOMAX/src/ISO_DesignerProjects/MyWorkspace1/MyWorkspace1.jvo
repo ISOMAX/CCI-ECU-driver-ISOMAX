@@ -1,0 +1,16 @@
+[5_4_0]
+ptn_Child1=ChildFrames
+[5_4_0.ChildFrames]
+ptn_Child1=Document-0
+ptn_Child2=Document-1
+ptn_Child3=Document-2
+ptn_Child4=Document-3
+[5_4_0.ChildFrames.Document-0]
+ptn_Child1=ViewFrame-0
+[5_4_0.ChildFrames.Document-0.ViewFrame-0]
+DocPathName=.\MyProject1\WorkingSet_0.jvi
+WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPDAAAAAAAJBAAAAAABCDAAAAAHLCAAAAA
+ActiveTab=0
+ViewScrollHoriz=90
+ViewScrollVert=0
+IsActiveChildFrame=True

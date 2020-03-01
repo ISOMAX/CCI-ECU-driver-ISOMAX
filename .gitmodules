@@ -1,0 +1,3 @@
+[submodule "ISOMAX/lib_cci"]
+	path = ISOMAX/lib_cci
+	url = https://github.com/ISOMAX/cci_ecu_driver-private.git
